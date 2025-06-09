@@ -1,8 +1,8 @@
 def lohnberechnung(arbeitsstunden, stundenlohn):
-    """
-    Berechnet das Gehalt basierend auf Arbeitsstunden und Stundenlohn.
-    Für Überstunden (über 40 Std.) wird ein Zuschlag von 40% gezahlt.
-    """
+    
+    # Berechnet das Gehalt basierend auf Arbeitsstunden und Stundenlohn.
+    # Für Überstunden (über 40 Std.) wird ein Zuschlag von 40% gezahlt.
+    
     if arbeitsstunden <= 40:
         return arbeitsstunden * stundenlohn
     else:
