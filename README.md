@@ -13,7 +13,7 @@ Es handelt sich um ein einfaches Programm zur Berechnung des Gehalts inklusive �
 ### 📁 Versionen
 
 - [`Lohnberechnung Basis`](basic/lohnberechnung_basic.py)  
-  Ursprüngliche Version aus dem Lernkontext
+  Ursprüngliche Version
 
 - [`Lohnberechnung strukturiert`](structured/lohnberechnung_structured.py)  
   Überarbeitete Version mit strukturierter Funktion, `main()`-Block und Kommentaren
@@ -32,7 +32,7 @@ It is a simple program to calculate salary including overtime pay.
 ### 📁 Versions
 
 - [`Salary calculation basic`](basic/salary_calculation_basic.py)  
-  Original version from the learning context
+  Original version
 
 - [`Salary calculation structured`](structured/salary_calculation_structured.py)  
   Refined version with structured functions, `main()` block, and comments
