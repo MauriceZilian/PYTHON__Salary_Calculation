@@ -1,8 +1,8 @@
 def calculate_salary(work_hours, hourly_wage):
-    """
-    Calculates the salary based on working hours and hourly wage.
-    Overtime (over 40 hours) is paid with a 40% bonus.
-    """
+    
+    # Calculates the salary based on working hours and hourly wage.
+    # Overtime (over 40 hours) is paid with a 40% bonus.
+    
     if work_hours <= 40:
         return work_hours * hourly_wage
     else:
